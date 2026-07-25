@@ -3,3 +3,4 @@ git add .gitignore
 git commit -m "ignore .env before any secret exists"
 git push
 gitignore
+.env
